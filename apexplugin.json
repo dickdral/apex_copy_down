@@ -28,7 +28,7 @@
         "internalName" : "NL.DETORA.APEX.COPYDOWN",
         "type" : "dynamic action",
         "demo" : "http://www.speech2form.com/ords/f?p=OPFG:COPYDOWN",
-        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex-copy_to_clipboard/master/copydown_example.gif"
+        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_copy_down/master/copydown_example.gif"
       }
     }
   }
